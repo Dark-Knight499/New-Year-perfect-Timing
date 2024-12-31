@@ -29,7 +29,7 @@ void initialise(struct Hny *p)
 }
 int choice(struct Hny const *p,const int len)
 {
-		printf("Enter valid choice 1 or 2...\n");
+		printf("Enter valid choice 1 or 2 or 3...\n");
 
 		for (int i = 0; i < len; ++i)
 		{
